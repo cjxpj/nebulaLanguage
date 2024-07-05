@@ -5,7 +5,7 @@ QQ群：927467925
 
 ## 客户端
 果汁负责运行，跨平台兼容性良好。
-<a href="https://github.com/Mrs4s/go-cqhttp/releases">下载</a>
+<a href="https://github.com/cjxpj/juice_WebNebulaLanguage/releases">下载</a>
 
 ## 语言
 wn跟n词库运行方法拥有全新的语法糖，中文开发。
