@@ -1,5 +1,8 @@
 # juice_WebNebulaLanguage
 
+## 开发群
+QQ群：927467925
+
 ## 客户端
 果汁负责运行，跨平台兼容性良好。
 
