@@ -5,9 +5,14 @@
 <a href="https://github.com/cjxpj/juice_WebNebulaLanguage/releases">下载</a>
 
 #### 使用说明
-wn跟n词库运行方法拥有全新的语法糖，中文开发。
+启动后会生成juiceData文件夹
+请仔细阅读README.md文档进行使用
+启动成功后就能访问127.0.0.1:8080进行查看
 
-##### wn
+##### 手机目录
+Documents/juiceData
+
+##### wn词库
 
 ```
 <h1>
@@ -17,7 +22,7 @@ $全局变量 版本$
 </h1>
 ```
 
-##### n
+##### n词库
 
 ```
 头部
@@ -33,7 +38,7 @@ Main
 juiceData/juice.md
 
 #### 默认启动
-**localhost:8080**
+**127.0.0.1:8080**
 
 ### 程序系统重要文件
 
