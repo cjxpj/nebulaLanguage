@@ -69,14 +69,18 @@ QQ群：927467925
 ## Github
 
 ```
-https://github.com/cjxpj/juice_WebNebulaLanguage
+https://github.com/cjxpj/nebulaLanguage
 ```
+
+<a href="https://github.com/cjxpj/nebulaLanguage/releases">下载</a>
 
 ## Gitee
 
 ```
-https://gitee.com/cjxpj/juice_WebNebulaLanguage
+https://gitee.com/cjxpj/nebulaLanguage
 ```
+
+<a href="https://gitee.com/cjxpj/nebulaLanguage/releases">下载</a>
 
 ## Nebula
 
@@ -1638,6 +1642,15 @@ $时间戳格式化时间 %时间戳% s秒$
 ```
 $终端 python test.py$
 %报错%
+```
+
+会卡死线程等待输入后执行
+
+```
+$打印 等待输入$
+a:$终端等待输入$
+$打印 内容%a%$
+内容%a%
 ```
 
 ### DLL
